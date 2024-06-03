@@ -1,5 +1,11 @@
-template-repository (1.0-1) unstable; urgency=medium
+golang-github-tklauser-numcpus (0.3.0-2) unstable; urgency=medium
 
-  * Initial release
+  * Source only upload for testing migration.
 
- -- Tsic404 <liuheng@deepin.org>  Sat, 28 Jan 2023 13:46:49 +0800
+ -- Aloïs Micard <creekorful@debian.org>  Sat, 27 Nov 2021 11:13:18 +0100
+
+golang-github-tklauser-numcpus (0.3.0-1) unstable; urgency=medium
+
+  * Initial release (Closes: #1000416)
+
+ -- Aloïs Micard <creekorful@debian.org>  Mon, 22 Nov 2021 22:32:47 +0100
